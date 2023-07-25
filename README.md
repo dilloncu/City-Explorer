@@ -1,6 +1,6 @@
 # Project Name: City Explorer
 
-**Author**: Dillon Cushman 
+**Author**: Dillon Cushman  
 **Version**: 1.0
 
 ## Overview
